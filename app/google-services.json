@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1017883738830",
+    "firebase_url": "https://grahsewa-a8a59.firebaseio.com",
+    "project_id": "grahsewa-a8a59",
+    "storage_bucket": "grahsewa-a8a59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017883738830:android:9c36e4fac4b854ea",
+        "android_client_info": {
+          "package_name": "com.grahsewa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017883738830-nhse2cq8pen4u50evjn5kotgnethratf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grahsewa",
+            "certificate_hash": "772c9b70ac9827f6649d3d5687449212dc5c83ea"
+          }
+        },
+        {
+          "client_id": "1017883738830-spducs5nn2jnrsv2con1vlmddg32a3vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6qOWZvu5lc9dghPtAR5PYAw3z1ZygwHU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017883738830-spducs5nn2jnrsv2con1vlmddg32a3vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
