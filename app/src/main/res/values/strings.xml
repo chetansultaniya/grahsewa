@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Grahsewa</string>
+    <string name="signinBtn">SIGN IN</string>
+    <string name="adminMobile">9179778888</string>
+    <string name="adminPassword">9179778888</string>
+    <string name="signupBtn">SIGN UP</string>
 </resources>
