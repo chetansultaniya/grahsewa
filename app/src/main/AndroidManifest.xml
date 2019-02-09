@@ -5,12 +5,12 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
+        android:name=".controller.Grahsewa"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme"
-        android:name=".controller.Grahsewa">
+        android:theme="@style/AppTheme">
         <activity android:name=".controller.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -18,7 +18,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".controller.SuserPanel"></activity>
+        <activity android:name=".controller.AdminPanel" />
+        <activity android:name=".controller.SuserPanel" />
+        <activity android:name=".controller.MuserPanel" />
+        <activity android:name=".controller.EuserPanel"></activity>
     </application>
 
 </manifest>

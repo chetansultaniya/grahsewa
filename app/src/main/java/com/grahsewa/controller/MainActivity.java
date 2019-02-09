@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
                             if(suser.getPassword().equals(sPassword.getText().toString()))
                             {
                                 Log.d("MainActivityLog","Login Successful");
-                                Intent intent = new Intent(MainActivity.this,SuserPanel.class);
+                                Intent intent = new Intent(MainActivity.this,AdminPanel.class);
                                 startActivity(intent);
                             }
                             else

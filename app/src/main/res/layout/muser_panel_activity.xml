@@ -5,12 +5,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
-    tools:context=".controller.SuserPanel">
+    tools:context=".controller.MuserPanel">
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Suser Panel"
+        android:text="Muser Panel"
         android:textSize="34sp" />
 </LinearLayout>
